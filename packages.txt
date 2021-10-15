@@ -1,5 +1,0 @@
-folium
-pandas
-geopandas
-streamlit
-streamlit_folium
