@@ -1,2 +1,2 @@
 # stream_fol_ujicoba
-UJICOBA
+Grid Ujicoba Pemetaan with Streamlit folium
